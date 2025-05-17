@@ -1,0 +1,13 @@
+﻿Can Integrate the Export as PDf
+Can Give user to experince the Seamless Blog Addityion
+Customizable Placement of Blog
+Can Create Custom Template
+Integrate the SSO
+Introduce Capta if muliple time API hit or while login
+One can help other Blog
+Live Reading Integration
+
+
+ToDo
+1. SSO
+2. Use the ProduceOutType for responsse type visibility

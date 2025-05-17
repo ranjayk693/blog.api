@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Redirecting.5qeddbfwv2.html",
+      "AssetFile": "Redirecting.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 13:12:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qeddbfwv2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0="
+        },
+        {
+          "Name": "label",
+          "Value": "Redirecting.html"
+        }
+      ]
+    },
+    {
+      "Route": "Redirecting.html",
+      "AssetFile": "Redirecting.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 13:12:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0="
+        }
+      ]
+    }
+  ]
+}

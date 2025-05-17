@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "oOwaOi9MBdEBFK/qdpADCysQTeMBIehUqIHG2zcZhwE=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\wwwroot\\Redirecting.html",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "Redirecting#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5qeddbfwv2",
+      "Integrity": "zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Redirecting.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Redirecting.5qeddbfwv2.html",
+      "AssetFile": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\wwwroot\\Redirecting.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 13:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qeddbfwv2"
+        },
+        {
+          "Name": "label",
+          "Value": "Redirecting.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0="
+        }
+      ]
+    },
+    {
+      "Route": "Redirecting.html",
+      "AssetFile": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\wwwroot\\Redirecting.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 13:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zbQs8RLjaBgAccieYB0d3ssfglCn/FpWTj828JM8hv0="
+        }
+      ]
+    }
+  ]
+}

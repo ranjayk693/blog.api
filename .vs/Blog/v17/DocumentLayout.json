@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog.dal\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog.dal\\migrations\\20250413092004_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\migrations\\20250413092004_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|d:\\startup\\git\\blogging-master\\blog.backend\\blog.dal\\helper\\configurationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\helper\\configurationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Blog\\Program.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Program.cs",
+              "RelativeToolTip": "Blog\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:00:03.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:33:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigurationDAL.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Helper\\ConfigurationDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Helper\\ConfigurationDAL.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Helper\\ConfigurationDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Helper\\ConfigurationDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:33:06.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAcwG4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T18:20:13.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250413092004_initail.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Migrations\\20250413092004_initail.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Migrations\\20250413092004_initail.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Migrations\\20250413092004_initail.cs",
+              "RelativeToolTip": "Blog.DAL\\Migrations\\20250413092004_initail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:20:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Data\\ContextDb.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Data\\ContextDb.cs",
+              "ToolTip": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog.DAL\\Data\\ContextDb.cs",
+              "RelativeToolTip": "Blog.DAL\\Data\\ContextDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:16:22.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

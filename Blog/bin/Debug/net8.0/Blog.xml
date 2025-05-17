@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blog</name>
+    </assembly>
+    <members>
+        <member name="M:Blog.Controllers.BlogsController.AddBlog(Blog.BAL.Dtos.BlogView)">
+            <summary>
+            Add Blog
+            </summary>
+            <param name="BlogView"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.GetListByUser">
+            <summary>
+            Return List of Blog by UserId
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.GetListByCategory(System.String)">
+            <summary>
+            Return List of Blog by CategoryId
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.GetRecentBlog">
+            <summary>
+            Get Recent Blogs
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.Delete(System.String)">
+            <summary>
+            Delete the Specific Blog
+            </summary>
+            <param name="blogID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.GetByBlogId(System.String)">
+            <summary>
+            Get Blog By BlogID
+            </summary>
+            <param name="BlogID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.BlogsController.Test(System.String)">
+            <summary>
+            Testing The Blogs services
+            </summary>
+            <param name="UserID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.CommonController.GetCategories">
+            <summary>
+            Get the Category List
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.ReviewController.AddReview(System.String,System.String)">
+            <summary>
+            Add Review
+            </summary>
+            <param name="BlogId"></param>
+            <param name="Review"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.ReviewController.GetReviewByID(System.String)">
+            <summary>
+            Get All the reviews associated with blog
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.UsersController.RegisterUser(Blog.BAL.Dtos.UserDtos)">
+            <summary>
+            Register User
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.UsersController.ActivateUser(System.String)">
+            <summary>
+            Activate the user
+            </summary>
+            <param name="token"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.UsersController.Login(Blog.BAL.Dtos.LoginDto)">
+            <summary>
+            Login
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.UsersController.DeleteUser">
+            <summary>
+            Delete User
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Controllers.UsersController.Test">
+            <summary>
+            Testing for User Services
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

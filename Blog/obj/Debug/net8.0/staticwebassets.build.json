@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "m3pGapPqIOxYtZK92zjtvf6LDQXE7ettEkxnKF8tVOg=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\wwwroot\\Redirecting.html",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Startup\\Git\\Blogging-master\\Blog.Backend\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "Redirecting.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Redirecting.html"
+    }
+  ]
+}

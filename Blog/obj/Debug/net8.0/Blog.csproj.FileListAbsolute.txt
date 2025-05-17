@@ -1,0 +1,378 @@
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.csproj.AssemblyReference.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\appsettings.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.staticwebassets.runtime.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.staticwebassets.endpoints.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.exe
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.deps.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.xml
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.BAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.DAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.BAL.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Blog.DAL.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\scopedcss\bundle\Blog.styles.css
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog.props
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog.props
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.csproj.Up2Date
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\refint\Blog.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.xml
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\obj\Debug\net8.0\ref\Blog.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Auth0.AspNetCore.Authentication.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\appsettings.Development.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\appsettings.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.staticwebassets.runtime.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.exe
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.deps.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.pdb
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.xml
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Auth0.AspNetCore.Authentication.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Azure.Core.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Azure.Identity.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Humanizer.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Isopoh.Cryptography.Argon2.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Isopoh.Cryptography.Blake2b.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Isopoh.Cryptography.SecureArray.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Web.Http.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.ClientModel.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.CodeDom.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Text.Json.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.BAL.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.DAL.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.BAL.pdb
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\bin\Debug\net8.0\Blog.DAL.pdb
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.csproj.AssemblyReference.cache
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cs
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets.build.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets.development.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog.props
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog.props
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\scopedcss\bundle\Blog.styles.css
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.csproj.Up2Date
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\refint\Blog.dll
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.xml
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.pdb
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
+D:\Startup\Git\Blogging-master\Blog.Backend\Blog\obj\Debug\net8.0\ref\Blog.dll

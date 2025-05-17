@@ -1,0 +1,15 @@
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\bin\Release\net8.0\Blog.BAL.deps.json
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\bin\Release\net8.0\Blog.BAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\bin\Release\net8.0\Blog.BAL.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\bin\Release\net8.0\Blog.DAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\bin\Release\net8.0\Blog.DAL.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.csproj.AssemblyReference.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.AssemblyInfoInputs.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.AssemblyInfo.cs
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.csproj.Up2Date
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\refint\Blog.BAL.dll
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\Blog.BAL.pdb
+C:\Users\Ranjay Kumar\source\repos\Blog\Blog.BAL\obj\Release\net8.0\ref\Blog.BAL.dll

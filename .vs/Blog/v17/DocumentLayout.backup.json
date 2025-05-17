@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\services\\userservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\services\\userservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\interface\\iuserservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\interface\\iuserservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\services\\userservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\services\\userservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\services\\blogservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\services\\blogservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\services\\blogservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\services\\blogservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\interface\\iblogservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\interface\\iblogservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\interface\\iblogservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\interface\\iblogservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\blogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\blogview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\services\\reviewservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\services\\reviewservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\reviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\reviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\data\\adonetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\data\\adonetdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E76AE07-2D76-49BE-A14A-9CD939FBD64D}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\services\\commonservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\services\\commonservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\interface\\iuserservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\interface\\iuserservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\interface\\ireviewservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\interface\\ireviewservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\categoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\categoryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\dtos\\blogdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\dtos\\blogdetailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\interface\\icommonservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\interface\\icommonservicebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\interface\\icommonservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\interface\\icommonservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.dal\\services\\commonservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EA737-7FB4-477F-B772-CEE3E56C1182}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\services\\commonservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|c:\\users\\ranjay kumar\\source\\repos\\blog\\blog.bal\\blog.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96B6A782-CCBA-4842-970D-354D63AA07A6}|Blog.BAL\\Blog.BAL.csproj|solutionrelative:blog.bal\\blog.bal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogView.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\BlogView.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\BlogView.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\BlogView.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\BlogView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:15:41.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBlogServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IBlogServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Interface\\IBlogServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IBlogServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Interface\\IBlogServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:21:33.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Program.cs",
+              "RelativeToolTip": "Blog\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:02:42.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\appsettings.json",
+              "RelativeToolTip": "Blog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T11:45:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserDtos.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserDtos.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:34.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\UserServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Services\\UserServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\UserServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Services\\UserServiceBAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:42:38.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\TokenDto.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:34:55.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\UserServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Services\\UserServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\UserServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Services\\UserServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:54:13.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IUserServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Interface\\IUserServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IUserServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Interface\\IUserServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:42:43.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBlogServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\IBlogServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Interface\\IBlogServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\IBlogServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Interface\\IBlogServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:23:16.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\UserProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserProfileViewModel.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\UserProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:07:05.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:07:48.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:36.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwJgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:48:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\BlogServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Services\\BlogServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\BlogServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Services\\BlogServiceDAL.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAApwG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:23:39.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\BlogServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Services\\BlogServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\BlogServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Services\\BlogServiceBAL.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAArwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:07:59.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ADONetDb.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Data\\ADONetDb.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Data\\ADONetDb.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Data\\ADONetDb.cs",
+              "RelativeToolTip": "Blog.DAL\\Data\\ADONetDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:29:38.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:25:19.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:20:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\ReviewServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Services\\ReviewServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\ReviewServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Services\\ReviewServiceBAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwDwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:27:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\ReviewViewModel.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\ReviewViewModel.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\ReviewViewModel.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\ReviewViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:55:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\LoginResponse.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:41:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserModel.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\UserModel.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:48:22.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommonServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\CommonServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Services\\CommonServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Services\\CommonServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Services\\CommonServiceBAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:08:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\IUserServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Interface\\IUserServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\IUserServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Interface\\IUserServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:03:32.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IReviewServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IReviewServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Interface\\IReviewServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\IReviewServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Interface\\IReviewServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:22:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryView.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\CategoryView.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\CategoryView.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\CategoryView.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\CategoryView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:49:39.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlogDetailView.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\BlogDetailView.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Dtos\\BlogDetailView.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Dtos\\BlogDetailView.cs",
+              "RelativeToolTip": "Blog.BAL\\Dtos\\BlogDetailView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:19:06.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICommonServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\ICommonServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Interface\\ICommonServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Interface\\ICommonServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Interface\\ICommonServiceDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:55:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICommonServiceBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\ICommonServiceBAL.cs",
+              "RelativeDocumentMoniker": "Blog.BAL\\Interface\\ICommonServiceBAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Interface\\ICommonServiceBAL.cs",
+              "RelativeToolTip": "Blog.BAL\\Interface\\ICommonServiceBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:04:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommonServiceDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\CommonServiceDAL.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Services\\CommonServiceDAL.cs",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.DAL\\Services\\CommonServiceDAL.cs",
+              "RelativeToolTip": "Blog.DAL\\Services\\CommonServiceDAL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:54:43.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Blog.BAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Blog.BAL.csproj",
+              "RelativeDocumentMoniker": "Blog.BAL\\Blog.BAL.csproj",
+              "ToolTip": "C:\\Users\\Ranjay Kumar\\source\\repos\\Blog\\Blog.BAL\\Blog.BAL.csproj",
+              "RelativeToolTip": "Blog.BAL\\Blog.BAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T10:41:23.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
